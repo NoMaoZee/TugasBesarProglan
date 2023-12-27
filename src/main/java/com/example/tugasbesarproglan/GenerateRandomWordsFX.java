@@ -29,7 +29,7 @@ public class GenerateRandomWordsFX extends Application {
 
     @Override
     public void start(Stage primaryStage) {
-        primaryStage.setTitle("Welcome to Generate Random Word");
+        primaryStage.setTitle("Welcome to Generate Random Word 1.0");
 
         // Membuat komponen GUI
         inputKataList = new ArrayList<>();

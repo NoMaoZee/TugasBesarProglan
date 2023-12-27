@@ -1,4 +1,4 @@
-# Generate Random Words FX
+# Generate Random Words FX 1.0
 
 - This Generates Random Words application generates a random word from a user-provided list of words and displays the selected word. It also allows you to choose the number of input fields and saves the input words and timestamp to a file named "Results Generate.txt".
 
